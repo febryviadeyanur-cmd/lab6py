@@ -84,9 +84,9 @@ ubah (nama) : Mengubah data (Menerima  input nama dan mencari data mahasiswa)
 
 1. Meminta pengguna memasukkan Nama mahasiswa
 
-2. Meminta pengguna memasukkan Nilai mahasiswa.
+2. Meminta pengguna memasukkan Nilai mahasiswa
 
-3. Buat dictionary baru: {"nama": Nama, "nilai": Nilai}.
+3. Buat dictionary baru: {"nama": Nama, "nilai": Nilai}
 
 4. Tambahkan dictionary ini ke data_mahasiswa
 
@@ -102,19 +102,19 @@ ubah (nama) : Mengubah data (Menerima  input nama dan mencari data mahasiswa)
 
 #Fungsi hapus(nama)
 
-1. Lakukan perulangan melalui data_mahasiswa.
+1. Lakukan perulangan melalui data_mahasiswa
 
-2. Meminta cek apakah mahasiswa['nama'] sama dengan nama yang dicari.
+2. Meminta cek apakah mahasiswa['nama'] sama dengan nama yang dicari
 
-3. Jika sama, hapus elemen tersebut dari list (gunakan del atau metode pop()).
+3. Jika sama, hapus elemen tersebut dari list (gunakan del atau metode pop())
 
-4. Setelah ditemukan dan dihapus, segera hentikan perulangan (gunakan break).
+4. Setelah ditemukan dan dihapus, segera hentikan perulangan (gunakan break)
 
 #Fungsi ubah(nama)
 
 1. Lakukan perulangan melalui data_mahasiswa.
 
-2. Meminta cek apakah mahasiswa['nama'] sama dengan nama yang dicari.
+2. Meminta cek apakah mahasiswa['nama'] sama dengan nama yang dicari
 
 3. Jika sama, minta input Nilai Baru.
 
